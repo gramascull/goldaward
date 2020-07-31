@@ -1,22 +1,14 @@
 ## Grace Scullin - 2020 Gold Award
 
-### It's Mental Illness, Innit
+### Iz Mental Illness, Innit
 
 *A Series of Illustrations and Information*
 
-For my Gold Award project, I decided to focus on a subject that many adolescents of today know about - or at least, a subject they should know about: Mental illness. It may appear that mental illness is more prevalent in this generation than in previous generations, but this is not true! There have been more diagnoses sin
+For my Gold Award project, I decided to focus on a subject that many adolescents of today know about - or at least, a subject they should know about: Mental illness. Today, approximately one in four people suffer from mental illnesses, and because of this, it is significantly less stigmatized than it was twenty or thirty years ago. But that doesn't mean that there isn't misconceptions and prejudices when it comes to mental illness. My project is meant to inform people about common misconceptions whenit comes to mental illness.
 
-# Header 1
-## Header 2
-### Header 3
+# Pictures 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+I haven't finished the illustrations I plan to place here :-)
 
 [Link](url) and ![Image](src)
 ```
