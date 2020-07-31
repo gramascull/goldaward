@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Grace Scullin - 2020 Gold Award
 
-You can use the [editor on GitHub](https://github.com/gramascull/goldaward/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### It's Mental Illness, Innit
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*A Series of Illustrations and Information*
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+For my Gold Award project, I decided to focus on a subject that many adolescents of today know about - or at least, a subject they should know about: Mental illness. It may appear that mental illness is more prevalent in this generation than in previous generations, but this is not true! There have been more diagnoses sin
 
 # Header 1
 ## Header 2
